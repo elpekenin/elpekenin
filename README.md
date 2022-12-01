@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @elpekenin
-- 👀 I’m interested in learning
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elpekenin&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elpekenin)](https://github.com/anuraghazra/github-readme-stats)
 - Studying telecomunications master
-- 🌱 Telematics engineer at UPCT
-
-<!---
-elpekenin/elpekenin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Telematics engineer at UPCT
